@@ -11,7 +11,7 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, helping out, do
 - 🌱 I’m currently learning C, Data Science, Google IT Support, Google IT Automation with Python, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Back-end Engineer, or Data Scientist (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing ojonuba93@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1mlT0jWgifNWVpU_OW3arJF3wZpECg78P/view?usp=sharing) and contact me by emailing ojonuba93@gmail.com.
 
 ---
 
